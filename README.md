@@ -11,9 +11,9 @@ I'm a frontend software developer, though I also really enjoy full-stack develop
 
 - 🌍 I'm in Caracas, Venezuela
 - ✉️ You can contact me at [jesusobandocode@gmail.com](mailto:jesusobandocode@gmail.com)
-- 🚀 I'm currently working on [My Portfolio](#)
+- 🚀 I'm currently working on [My Portfolio](https://jesusobando32.github.io/)
 - 🧠 I'm currently deeply interested in distributed systems, algorithm optimization, and creating visually appealing UI/UX designs.
-- 🤝 Connect with me: 
+- 🤝 Connect with me:
   <a href="https://www.linkedin.com/in/jesusobando/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/jesus__obando?igsi=bDJ1bWNma2oxNGtp"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
