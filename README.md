@@ -97,11 +97,7 @@ Here are some of the standout projects I've built. Each one is a testament to my
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jesusobando32&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
 
-<br/>
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jesusobando32&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
